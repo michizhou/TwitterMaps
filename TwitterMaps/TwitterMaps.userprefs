@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5BDA53C1-A0F0-496F-8ED9-3E6BBF240DA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwitterMaps Status">
+    <Files>
+      <File FileName="TwitterMaps/Models/Item.cs" Line="10" Column="50" />
+      <File FileName="TwitterMaps Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TwitterMaps.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B230E0EF-4F42-47DF-B6F5-BAED9B9C7E76">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TwitterMaps.iOS>
+</Properties>
