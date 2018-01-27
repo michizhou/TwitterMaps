@@ -8,7 +8,7 @@ namespace TwitterMaps
     {
         public MainPage()
         {
-            Page itemsPage, aboutPage = null;
+            Page itemsPage, aboutPage, mapPage = null;
 
             switch (Device.RuntimePlatform)
             {
@@ -21,6 +21,10 @@ namespace TwitterMaps
                     aboutPage = new NavigationPage(new AboutPage())
                     {
                         Title = "About"
+                    };
+                    mapPage = new NavigationPage(new MapPage())
+                    {
+                        Title = "Map"
                     };
                     itemsPage.Icon = "tab_feed.png";
                     aboutPage.Icon = "tab_about.png";
@@ -35,11 +39,16 @@ namespace TwitterMaps
                     {
                         Title = "About"
                     };
+                    mapPage = new MapPage()
+                    {
+                        Title = "Map"
+                    };
                     break;
             }
 
             Children.Add(itemsPage);
             Children.Add(aboutPage);
+            Children.Add(mapPage);
 
             Title = Children[0].Title;
         }

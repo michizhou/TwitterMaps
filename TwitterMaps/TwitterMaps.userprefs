@@ -2,6 +2,27 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="TwitterMaps Status">
     <Files>
       <File FileName="TwitterMaps/Models/Item.cs" Line="10" Column="50" />
+      <File FileName="TwitterMaps/Services/CloudDataStore.cs" Line="23" Column="10" />
+      <File FileName="TwitterMaps/Services/IDataStore.cs" Line="6" Column="23" />
+      <File FileName="TwitterMaps/Services/MockDataStore.cs" Line="8" Column="22" />
+      <File FileName="TwitterMaps/App.xaml" Line="19" Column="1" />
+      <File FileName="TwitterMaps/App.xaml.cs" Line="25" Column="10" />
+      <File FileName="TwitterMaps/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TwitterMaps/Views/ItemDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="16" Column="38" />
+      <File FileName="Droid/MainActivity.cs" Line="18" Column="56" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="14" Column="12" />
+      <File FileName="TwitterMaps/Views/MapPage.cs" Line="1" Column="1" />
+      <File FileName="TwitterMaps/Views/MainPage.cs" Line="23" Column="40" />
+      <File FileName="TwitterMaps/Views/ItemsPage.xaml" Line="23" Column="1" />
+      <File FileName="TwitterMaps/Views/ItemDetailPage.xaml" Line="8" Column="1" />
+      <File FileName="TwitterMaps/Views/NewItemPage.xaml" Line="15" Column="1" />
+      <File FileName="TwitterMaps/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TwitterMaps/Views/AboutPage.xaml" Line="14" Column="16" />
+      <File FileName="TwitterMaps/ViewModels/ItemsViewModel.cs" Line="1" Column="1" />
+      <File FileName="TwitterMaps/ViewModels/ItemDetailViewModel.cs" Line="1" Column="1" />
+      <File FileName="TwitterMaps/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
       <File FileName="TwitterMaps Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -11,7 +32,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TwitterMaps.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B230E0EF-4F42-47DF-B6F5-BAED9B9C7E76">
+  <MonoDevelop.Ide.ItemProperties.TwitterMaps.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9E478F7C-1FE4-4812-934F-A7362D089408" automaticSigning="False">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.TwitterMaps.iOS>
 </Properties>
